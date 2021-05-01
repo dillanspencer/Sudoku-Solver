@@ -5,7 +5,13 @@
  
  ## Table Of Contents:
 [How It Works](https://github.com/DillanSpencer/Sudoku-Solver/blob/master/README.md#How-It-Works)
+
 [Installation](https://github.com/DillanSpencer/Sudoku-Solver/blob/master/README.md#installation)
+
+[Usage](https://github.com/DillanSpencer/Sudoku-Solver/blob/master/README.md#usage)
+
+* [Setup for Use](https://github.com/DillanSpencer/Sudoku-Solver/blob/master/README.md#setup-for-use)
+* [Running the program](https://github.com/DillanSpencer/Sudoku-Solver/blob/master/README.md#running-the-program)
 
 ## How It Works
 1. Creates an image of each tile on the Sudoku board using [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
@@ -47,12 +53,13 @@
    ```
    
   ## Usage
-  
+  ### Setup For Use
   * First things first open up [Sudoku.com](www.sudoku.com). 
   * Once you run the program there is a 3 second interval where you can make your way to the webpage. 
   * Be sure to scroll all the way to the top of the page so that the images can be taken of the tiles correctly.
   * Make sure the volume is turned up so you can hear the program's current stage. When the sound "Let's play some sudoku" plays, you can press on any tile on the board to hear what value should be put there.
 
+### Running The Program
 To run the program:
  ```bash
    python3 solver.py
