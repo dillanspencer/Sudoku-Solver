@@ -25,7 +25,8 @@
 ## Installation
 
 1. Download and install Python3 from [here](https://www.python.org/downloads/)
-2. I recommend using [virtualenv](https://virtualenv.pypa.io/en/latest/). Download virtualenv by opening a terminal and typing:
+2. Download and install Google's Tesseract from [here](https://github.com/UB-Mannheim/tesseract/wiki)
+3. I recommend using [virtualenv](https://virtualenv.pypa.io/en/latest/). Download virtualenv by opening a terminal and typing:
     ```bash
     pip install virtualenv
     ```
