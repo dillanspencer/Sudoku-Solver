@@ -7,11 +7,26 @@ import pyttsx3
 import win32api
 import time
 
+# -----------------------
+# BOARD IS CALIBRATED FOR 1920 X 1080 WINDOW SIZE
+# ----------------------
+
+# Board Position
+start_position = (362, 208)
+end_position = (0, 0)
+
+# Board Tile Size
+tile_size = 56
+
+# Mouse Attributes
 state_left = win32api.GetKeyState(0x01)
 num_spaces = 0
 
 
+# Creates an image of each tile on the board
+# Images are outputted into the output folder
 def read_board():
+    global start_position, tile_size
     engine = pyttsx3.init()
 
     time.sleep(3)
@@ -26,7 +41,9 @@ def read_board():
                 xs = ys = 0
             if x % 3 == 0:
                 xs += 1
-            image = pyautogui.screenshot(region=(295 + (x * 65 + xs), 263 + (y * 65 + ys), 64, 64))
+            image = pyautogui.screenshot(
+                region=(start_position[0] + (x * tile_size + xs), start_position[1] + (y * tile_size + ys), tile_size,
+                        tile_size))
             image = cv2.cvtColor(np.array(image), cv2.COLOR_BGR2GRAY)
             thresh = cv2.threshold(image, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
 
@@ -38,6 +55,9 @@ def read_board():
     engine.runAndWait()
 
 
+# Uses PyTesseract to identify the number in each tile and output
+# each tile into a NumPy array
+# returns a filled NumPy array where every blank tile is a 0
 def load_board_to_array():
     global num_spaces
     engine = pyttsx3.init()
@@ -67,6 +87,8 @@ def load_board_to_array():
     return board
 
 
+# Params: Board (NumPy Array), x, y (tile position), num (Number to check if possible)
+# Returns true if the number is a valid move at the tile location
 def check_possible(board, x, y, num):
     # Check X row
     for i in range(9):
@@ -86,6 +108,7 @@ def check_possible(board, x, y, num):
     return True
 
 
+# A recursive backtracking algorithm that solves the sudoku puzzle
 def solver(board):
     for y in range(9):
         for x in range(9):
@@ -100,14 +123,19 @@ def solver(board):
     check_output_number(board)
 
 
+# Checks if the mouse is clicked within the bounds of the board
 def in_bounds(pos):
-    if pos[0] < 295 or pos[0] > 880:
+    global start_position, tile_size
+    if pos[0] < start_position[0] or pos[0] > start_position[0] + (9 * tile_size):
         return False
-    elif pos[1] < 265 or pos[1] > 850:
+    elif pos[1] < start_position[1] or pos[1] > start_position[1] + (9 * tile_size):
         return False
     return True
 
 
+# This function is to be used to automate inputting the answer into the board
+# Unfortunately Sudoku.com doesn't let this function work so the function below is
+# a better solution for solving this problem
 def output_solution(board):
     for y in range(9):
         for x in range(9):
@@ -118,25 +146,29 @@ def output_solution(board):
             print('{0}'.format(str(board[y][x])))
 
 
+# Checks which tile the mouse clicks on and returns the answer for that tile
+# It will output the answer using the speaker so that the user can input the answer
 def check_output_number(board):
     global state_left
     global num_spaces
+    global start_position
+    global tile_size
 
     engine = pyttsx3.init()
-    engine.say("Fuck bud lets play some SUDOKU")
+    engine.say("Ready to play Sudoku!")
     engine.runAndWait()
 
     while True:
         if num_spaces <= 0:
-            engine.say("We have won the game! Fuck Yeah")
+            engine.say("We have won the game!")
             engine.runAndWait()
             break
 
         pos = pyautogui.position()
         a = win32api.GetKeyState(0x01)
 
-        tile_x = (pos[0] - 295) // 64
-        tile_y = (pos[1] - 264) // 64
+        tile_x = (pos[0] - start_position[0]) // tile_size
+        tile_y = (pos[1] - start_position[1]) // tile_size
 
         if a != state_left and in_bounds(pos):
             state_left = a

@@ -1,73 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7c4d933-97bf-416c-9e4e-42f5ada39b46" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a7c4d933-97bf-416c-9e4e-42f5ada39b46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sudoku Solver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sudoku Solver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image10.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image11.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image12.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image13.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image14.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image15.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image16.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image17.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image18.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image19.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image20.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image21.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image22.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image23.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image24.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image25.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image26.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image27.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image28.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image29.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image30.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image31.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image32.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image33.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image34.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image35.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image36.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image37.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image38.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image39.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image4.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image40.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image41.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image42.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image43.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image44.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image45.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image46.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image47.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image48.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image49.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image5.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image50.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image51.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image52.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image53.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image54.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image55.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image56.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image57.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image58.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image59.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image6.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image60.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image61.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image62.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image63.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image64.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image65.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image66.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image66.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image67.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image67.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image68.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image69.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image69.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image7.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image70.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image71.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image72.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image73.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image73.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image74.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image75.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image76.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image77.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image77.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image78.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image78.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image79.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image79.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image8.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image80.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image9.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/solver.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-689224970">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="png" value="201" />
-          <entry key="py" value="7" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="201" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="3737" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="3737" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1619676700427" expanded="true" signature="2690:2827" ph="..." />
-                <marker date="1619676700427" expanded="true" signature="3468:3925" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-112" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,53 +125,18 @@
       <find>print</find>
     </findStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/board.py" />
-        <option value="$PROJECT_DIR$/solver.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Sudoku Solver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sudoku Solver" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1rwjdjqJI9wXMGGvX1BIoFi7v9U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -136,11 +145,10 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="" value="" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Dillan\AppData\Local\Microsoft\WindowsApps\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solver.py" />
@@ -158,6 +166,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -171,215 +180,41 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10773298" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output/image61.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image60.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image59.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image58.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image48.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image47.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image45.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image40.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image38.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image32.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image31.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image23.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image26.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image28.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image35.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image37.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image57.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image56.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image16.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image17.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image18.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image64.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image11.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image72.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image76.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image77.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image54.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image46.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image9.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image12.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image27.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image25.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image22.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image20.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image19.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image34.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image74.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image80.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image29.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image43.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/image79.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1619676700427" expanded="true" signature="2690:2827" ph="..." />
-            <marker date="1619676700427" expanded="true" signature="3468:3925" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112" />
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619894208017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619894208017" />
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom" timestamp="1619897247524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619897247524" />
+    <state width="1899" height="310" key="GridCell.Tab.0.center" timestamp="1619897247524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619897247524" />
+    <state width="1899" height="310" key="GridCell.Tab.0.left" timestamp="1619897247524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619897247524" />
+    <state width="1899" height="310" key="GridCell.Tab.0.right" timestamp="1619897247524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619897247524" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1619895300473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619895300473" />
   </component>
 </project>
